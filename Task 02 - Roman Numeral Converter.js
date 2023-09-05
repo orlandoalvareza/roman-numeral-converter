@@ -28,9 +28,7 @@ function convertToRoman(num) {
         }
       }
       
-      console.log(numeral);
       return numeral;
-    
     }
     
     convertToRoman(135);
